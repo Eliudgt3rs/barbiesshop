@@ -14,7 +14,7 @@ export default function HomePage() {
                     alt=""
                 />
                 <div className="heroBannerOverlay">
-                    <div className="heroBannerSubtitle">ReClaim</div>
+                    <div className="heroBannerSubtitle">Barbie's Beauty Shop</div>
                     <h1 className="heroBannerTitle">Reuse. Repurpose. Relove.</h1>
                     <CategoryLink categorySlug="all-products">
                         <LabelWithArrow>Shop Collections</LabelWithArrow>

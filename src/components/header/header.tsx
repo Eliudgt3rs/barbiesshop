@@ -31,7 +31,7 @@ export const Header = ({ className }: HeaderProps) => {
         <header className={classNames(styles.root, className)}>
             <section className={styles.topBar}>
                 <Link to="/" className={styles.logo}>
-                    ReClaim
+                    Barbie's Shop
                 </Link>
                 <div>
                     <div className={styles.advertisingText}>
